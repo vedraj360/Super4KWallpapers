@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Super 4K Wallpapers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="super4k">Super 4K Wallpapers</string>
+
+    <string name="http">http://</string>
+    <string name="download">Download</string>
+    <string name="write_file">This app needs access to your file storage so that it can write files</string>
+    <string name="alcohol_level_lower_to_higher">Set As Home Screen</string>
+    <string name="set_as_lock_screen">Set As Lock Screen</string>
+    <string name="wallimage">wallImage</string>
+    <string name="share">Share</string>
+    <string name="more_apps">More Apps</string>
+    <string name="about_us">About Us</string>
+    <string name="logo">logo</string>
+    <string name="privacypolicy" translatable="false" >Privacy Policy %1$d</string>
+    <string name="tc" translatable="false" >Terms of Service %1$d</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+</resources>
